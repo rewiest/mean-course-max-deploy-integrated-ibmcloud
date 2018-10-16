@@ -1,0 +1,7 @@
+---
+applications:
+- name: mean-course-app
+  host: mean-course-app
+  memory: 256M
+  env:
+    NODE_ENV: cloud-foundry
